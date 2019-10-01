@@ -4,8 +4,11 @@ Here you can find slides and code from all my presentations
 
 |Date|Conference|Talk|Link|
 |----|----------|----|----|
-|2019-06-04|[PSConf EU](https://psconf.eu)|Pester + Azure|[Link](./2019-06-04-PSConfEU/README.md)|
-|2019-06-04|[PSConf EU](https://psconf.eu)|WEF - Palantir|[Link](./2019-06-04-PSConfEU/README.md)|
+|2018-03-15|[SysOps DevOps Wroclaw](https://www.meetup.com/SysOpsWro)|OVF|[Link](./2018-03-15-SysOpsDevOps/README.md)|
+|2018-04-17|[PSConf EU 2018](https://psconf.eu)|OVF|[Link](./2018-04-17-PSConfEU/README.md)|
+|2018-04-17|[PSConf EU 2018](https://psconf.eu)|PPoSh Module Story|[Link](./2018-04-17-PSConfEU/README.md)|
+|2019-06-04|[PSConf EU 2019](https://psconf.eu)|Pester + Azure|[Link](./2019-06-04-PSConfEU/README.md)|
+|2019-06-04|[PSConf EU 2019](https://psconf.eu)|WEF - Palantir|[Link](./2019-06-04-PSConfEU/README.md)|
 |2019-06-25|Internal LightningTalk|MFA - Have I Been Pwned|[Link](./2019-06-25-LightningTalk/MFA-HaveIBeenPwned.pdf)|
 |2019-09-12|[SysOps DevOps Wroclaw](https://www.meetup.com/SysOpsWro)|WEF - Palantir|[Link](./2019-09-12-SysOpsDevOps/README.md)|
 |2019-09-28|[PS Day UK](https://psday.uk/)|Pester + Azure|[Link](./2019-09-28-PSDayUK/README.md)|
