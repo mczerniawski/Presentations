@@ -1,5 +1,6 @@
-# Slides and demo for my WEF - Palantir talk at SysOps DevOps Wroclaw
-Here you can find code and sample scripts for my PSDayUK presentation
+# WEF - Palantir
+
+Here you can find code and sample scripts for presentation at the [#10 SysOps DevOps Meetup in Wroclaw](https://www.meetup.com/SysOpsWro/events/264363369/0)
 
 |Session|Samples|Slides|Video|
 |--|--|--|--|
