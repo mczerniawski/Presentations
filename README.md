@@ -13,6 +13,7 @@ Here you can find slides and code from all my presentations
 |2019-09-12|[SysOps DevOps Wroclaw](https://www.meetup.com/SysOpsWro)|WEF - Palantir (PL)|[Link](./2019-09-12-SysOpsDevOps/README.md)|
 |2019-09-28|[PS Day UK](https://psday.uk/)|Pester + Azure|[Link](./2019-09-28-PSDayUK/README.md)|
 |2019-10-22|[Azure Meetup Wroclaw](https://www.meetup.com/Microsoft-Azure-Users-Group-Poland/events/265562701/)|Captain Kusto do we have Power (PL)|[Link](./2019-10-22-WroAzureMeetup/README.md)|
+|2019-11-20|[Meetup with Scottish PowerShell & DevOps User Group](https://www.meetup.com/Scottish-PowerShell-User-Group/events/265370227/)|WEF - Palantir (Eng)|[Link](./2019-11-20-ScotPSUG/README.md)|
 
 # Videos
 
