@@ -15,9 +15,8 @@ Here you can find slides and code from all my presentations
 |2019-10-22|[Azure Meetup Wroclaw](https://www.meetup.com/Microsoft-Azure-Users-Group-Poland/events/265562701/)|Captain Kusto do we have Power (PL)|[Link](./2019-10-22-WroAzureMeetup/README.md)|
 |2019-11-20|[Meetup with Scottish PowerShell & DevOps User Group](https://www.meetup.com/Scottish-PowerShell-User-Group/events/265370227/)|WEF - Palantir (Eng)|[Link](./2019-11-20-ScotPSUG/README.md)|
 |2019-12-05|[SysOps DevOps Poznan](https://www.meetup.com/SysOpsPoz/events/266554774/)|Captain Kusto do we have Power (PL)|[Link](./2019-12-05-SysOpsDevOps/README.md)|
-|2019-12-05|[PSConf EU 2020](https://psconf.eu)|Captain Kusto Do We have The Power|[Link](./2020-06-02-PSConfEU/README.md)|
-|2019-12-05|[SYSOPS DEVOPS ONLINE MEETUP – LIGHTNING TALK](https://www.sysopspolska.pl/event/sysops-devops-online-meetup-lightning-talk/)
-|MKDocs + Azure|[Link](./2020-08-27-SysOpsDevOps/README.md)|
+|2020-06-02|[PSConf EU 2020](https://psconf.eu)|Captain Kusto Do We have The Power|[Link](./2020-06-02-PSConfEU/README.md)|
+|2020-08-27|[SYSOPS DEVOPS ONLINE MEETUP – LIGHTNING TALK](https://www.sysopspolska.pl/event/sysops-devops-online-meetup-lightning-talk/)|MKDocs + Azure|[Link](./2020-08-27-SysOpsDevOps/README.md)|
 
 # Videos
 
